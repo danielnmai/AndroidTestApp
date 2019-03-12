@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DonorsChoose Modal</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="headline">Support a classroom. Build a future.</string>
+    <string name="message">Teachers and students all over the U.S. need your help to bring their classroom dreams to life. Get crayons, books, telescopes, field trips, and more for a classroom today.</string>
+    <string name="button_send">Donate</string>
+    <string name="success_message">You did it!</string>
+</resources>
